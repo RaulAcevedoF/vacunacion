@@ -1,6 +1,6 @@
 # Práctica CSS
 
-Para esta práctica necesito que clonen la página que está en el siguiente enlace [Link del diseño](./landingVacunaci%C3%B3n.png) by [Adhiari Subekti](https://dribbble.com/Adhiari_is)
+Para esta práctica necesito que clonen la página que está en el siguiente enlace [Link del diseño](https://dribbble.com/shots/16001939-Vaccination-Vaccine-landing-page-website/attachments/7867915?mode=media) by [Adhiari Subekti](https://dribbble.com/Adhiari_is)
 
 La práctica consiste en lo siguiente:
 
